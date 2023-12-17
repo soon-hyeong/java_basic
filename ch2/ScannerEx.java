@@ -12,5 +12,7 @@ public class ScannerEx {
 
         System.out.println("입력내용: " + input);
         System.out.printf("num=%d%n", num);
+        char a = '가';
+        System.out.printf("%d", (int)a);
     }
 }
